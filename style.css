@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    font-family: 'Montserrat' , sans-serif;
+  }
+body{
+    background-color: black
+  }
+section,footer{
+    padding: 54px 0;
+}
+
+.batata{
+ padding: 0px;
+ font-size: 100%;
+}
+
+.cabeca{
+  background-color: black;
+  padding: 0px;
+
+}
+
+.arrumar{
+  display: flex;
+  align-items: center;
+  margin: 10%;
+
+}
+
+.amor{
+  width: 50%;
+}
+
+.amortexto{
+  color: #ffffff;
+}
+
+.amor2{
+  width: 30%;
+}
+
+.arrumar2{
+  display: flex;
+  align-items: center;
+  margin: 30%;
+
+}
